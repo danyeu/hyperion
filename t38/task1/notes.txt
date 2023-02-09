@@ -1,0 +1,8 @@
+Note: cat monkey banana
+monkey and banana are more similar that cat and banana
+shows that the model recognises the connection between monkeys and bananas
+
+Note: example.py
+the similarity between complaints, recipes, and both groups of sentences is lower with the sm model than with the md language model
+
+
